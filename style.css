@@ -1,0 +1,429 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+
+}
+
+.main-div {
+background-color:#181717;
+width: 1200px;
+height: 1400px;
+margin: 0px auto;
+}
+
+.sec-div {
+    background-color: black;
+    width: 1070px;
+    height: 1100px;
+    margin: 0px auto;
+}
+
+.firsthead-div {
+    background-color: #181717;
+    height: 125px;
+    width: 1110px;
+
+}
+
+.headone-pic {
+    margin: 21px;
+    height: 75px;
+    width: 255px;
+    display: inline-block;
+}
+
+.callus-text {
+    display: inline-block;
+    float: right;
+    margin: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.first-navbar {
+    padding-top: 12px;
+    height: 50px;
+    width: 1110px;
+    background: linear-gradient(grey, black);
+    
+    
+    
+}
+
+ul li {
+    display: inline;
+    margin-left: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #d6cbcb;
+    border-right: 2px solid black;
+    padding-right: 5px;
+    color: white;
+}
+
+
+.main-pic {
+    height: 400px;
+    width: 1110px;
+    
+}
+
+.mainpic-line {
+    background-color: grey;
+    margin-top: -5px;
+ height: 5px;
+ width: 1110px;
+}
+
+.mainpic-border{
+    background-color: #464646;
+    height: 7px;
+    width: 1070px;
+    margin-top: -5px;
+    
+}
+
+.picbor-div{
+    background-color: black;
+    height: 150px;
+    width: 1110px;
+    
+    
+}
+
+.cloud-sec {
+    background-color: black;
+    height: 150px;
+    width: 267.5px;
+    padding: 15px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.cloud-pic {
+    
+    height: 30px;
+    width: 50px;
+    margin: 10px;
+}
+
+  .cloud-text {
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 5px;
+    vertical-align: top;
+    color: orangered;
+    font-size: 20px;
+    font-weight: bold;
+     
+} 
+
+ .cloud-latin {
+    background-color: black;
+    height: 90px;
+    width: 165px;
+    margin-left: 60px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    
+}
+
+.clock-sec {
+    background-color: black;
+    margin-left: 5px;
+    height: 150px;
+    width: 237.5px;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 6px;
+    
+}
+
+.clock-text {
+    display: inline-block;
+    margin-top: 13px;
+    vertical-align: top;
+    color: orangered;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.clock-latin {
+    background-color: black;
+    height: 90px;
+    width: 165px;
+    margin-left: 60px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+
+.marker-sec {
+    background-color: black;
+    margin-left: 5px;
+    height: 150px;
+    width: 267.5px;
+    display: inline-block;
+    vertical-align: top;
+     padding-top: 6px;
+} 
+
+.marker-pic {
+    height: 30px;
+    width: 50px;
+    margin: 10px;
+}
+
+.marker-text {
+    display: inline-block;
+    margin-top: 13px;
+    vertical-align: top;
+    color: orangered;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.marker-latin {
+    background-color: black;
+    height: 90px;
+    width: 165px;
+    margin-left: 60px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+
+.arrow-sec {
+    background-color: black;
+    margin-left: 2px;
+    height: 150px;
+    width: 237.5px;
+    display: inline-block;
+    padding-top: 6px;
+} 
+
+.arrow-pic {
+    height: 30px;
+    width: 50px;
+    margin: 10px;
+}
+
+.arrow-text {
+    display: inline-block;
+    margin-top: 13px;
+    vertical-align: top;
+    color: orangered;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.arrow-latin {
+    background-color: black;
+    height: 90px;
+    width: 165px;
+    margin-left: 60px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+
+
+
+
+.buynow-div{
+    background: repeating-linear-gradient(
+  120deg,
+  #6d6e79,
+  #6d6e79 5px,
+  black 5px,
+  black 20px);
+    height: 200px;
+    width: 1110px;
+}
+
+.latinbig-text {
+    color: white;
+    font-size: 24px;
+    font-weight: 200px;
+    padding: 35px;
+    display: inline-block;
+}
+
+.latinsmall-text {
+    color: white;
+    margin-left: 20px;
+    font-size: 18px;
+    display: inline-block;
+    margin-left: 35px;
+    margin-top: -20px;
+}
+
+.buynow-btn {
+    background-color: orange;
+    border-radius: 15px;
+    height: 50px;
+    width: 150px;
+    float: right;
+    margin-right: 80px;
+    margin-top: 50px;
+    
+} 
+
+
+
+.buynow-text {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 14px;
+}
+
+.lastdiv-port {
+    background-color: black;
+    height: 470px;
+    width: 1110px;
+    
+} 
+
+
+.portf-div{
+    background-color: black;
+    height: 100px;
+    width: 150px;
+    display: inline-block;
+}
+
+.portfolio-text {
+    color: white;
+    font-size: 22px;
+    margin-top: 40px;
+    margin-left: 30px;
+    
+
+}
+
+.dancer-sec {
+    background-color: black;
+    height: 370px;
+    width: 270px;
+    margin-left: 0px;
+    
+    
+}
+
+.dance-pic {
+    height: 200px;
+    width: 270px;
+    border:5px solid grey
+}
+
+.dance-big {
+    display: inline-block;
+    margin-top: 15px;
+    text-align: center;
+    vertical-align: top;
+    color: orangered;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.dance-small {
+    color: white;
+    font-size: 16px;
+}
+
+.bus-div {
+    background-color: black;
+    height: 370px;
+    width: 270px;
+    margin-left: 280px;
+    margin-top: -370px;
+    
+}
+
+.bus-pic {
+    height: 200px;
+    width: 270px;
+    border:5px solid grey
+}
+
+.bus-big {
+    display: inline-block;
+    margin-top: 15px;
+    text-align: center;
+    vertical-align: top;
+    color: orangered;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.bus-small {
+    color: white;
+    font-size: 16px;
+}
+
+.kiss-div {
+    background-color: black;
+    height: 370px;
+    width: 270px;
+    margin-left: 560px;
+    margin-top: -370px;
+}
+
+.kiss-pic {
+    height: 200px;
+    width: 270px;
+    border:5px solid grey
+}
+
+.kiss-big{
+    display: inline-block;
+    margin-top: 15px;
+    text-align: center;
+    vertical-align: top;
+    color: orangered;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.kiss-small{
+    color: white;
+    font-size: 16px;
+}
+
+
+.city-div{
+    background-color: black;
+    height: 370px;
+    width: 270px;
+    margin-left: 840px;
+    margin-top: -370px;
+}
+
+.city-pic{
+    height: 200px;
+    width: 270px;
+    border:5px solid grey
+}
+
+.city-big{
+    display: inline-block;
+    margin-top: 15px;
+    text-align: center;
+    vertical-align: top;
+    color: orangered;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.city-small{
+    color: white;
+    font-size: 16px;
+}
